@@ -3,9 +3,8 @@
 This folder contains my completed **internal security audit** for the fictional company *Botium Toys*, as part of my cybersecurity training.  
 
 ## 📑 Contents
-- **scope_goals_risk.md** → Scope, goals, assets, and risk assessment summary
-- **controls_compliance.md** → Completed controls & compliance checklist
-- **recommendations.md** → Recommendations to improve security posture
+- **scope_goals_risk.pdf** → Scope, goals, assets, and risk assessment summary
+- **controls_compliance_and_recommendations.pdf** → Completed controls & compliance checklist + Recommendations to improve security posture
 
 ## 🎯 Objective
 The goal of this audit was to:
