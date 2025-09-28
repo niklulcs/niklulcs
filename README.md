@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nikola]
+# 👋 Hi, I'm Nikola
 
 🔐 Aspiring Cybersecurity Professional | Currently studying on Coursera & practicing hands-on labs with TryHackMe.  
 💻 Background in computer science fundamentals, now focused on building skills in ethical hacking, blue team defense, and digital security.  
